@@ -4,7 +4,7 @@ git config --global user.email "your email"
 
 git clone https://github.com/jbahamon-uncc/itsc-2181-helloworld.git
 
-cd helloworld
+cd itsc-2181-helloworld
 
 gcc helloworld.c -o helloworld
 
